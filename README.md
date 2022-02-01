@@ -4,7 +4,7 @@
 This project is built to apply some time series tools in order to predict future movment in value of the Canadian dollar versus Japanes yen .
 
 
- `` Thi Starter code file  contains two main NoteBooks ``
+ `` The Starter code file  contains two main NoteBooks ``
  
 * [Linear Regression Starter Notebook](https://github.com/malkawenedal/-Unit-10-A-Yen-for-the-Future/blob/main/Starter_Code/regression_analysis.ipynb). 
  .This Notebook will build a Scikit-Learn linear regression model to predict CAD/JPY returns with *lagged* CAD/JPY futures returns and categorical calendar seasonal effects.
